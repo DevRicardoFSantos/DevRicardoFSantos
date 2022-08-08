@@ -1,6 +1,6 @@
 
 
-## Hi! I'm Ricardo Franco, Business Process Architecht and studying Camunda Development!
+## Hi! I'm Ricardo Franco, Business Process Architecht and studying Camunda Development.
 <div align="center">
   <a href="https://github.com/DevRicardoFSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevRicardoFSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
